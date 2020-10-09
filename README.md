@@ -1,4 +1,4 @@
-# regressao linear simples e multipla
+# Regressão linear simples e múltipla
 
 Desmonstração da aplicação do R para cálculo de correlação de Pearson e 
 posteriormente cálculo de regressão linear (simples e múltipla) disciplina Modelos estatísticos
